@@ -16,7 +16,7 @@ Actualmente soy mentee del programa de mentoreo y entrenamiento Open Seeds de [O
 
 Desde principios del 2021 formó parte del equipo de accesibilidad  de [Metadocencia](https://www.metadocencia.org/) y en estos momentos me desempeño como coordinadora de dicho equipo.  Además, soy Instructora certificada por [The Carpentries](https://carpentries.org/instructors/) e Instructora de tidyverse por [Rstudio](https://education.rstudio.com/trainers/). Disfruto de aprender en comunidad por eso formo parte de grandes comunidades como R-Ladies, the Carpentries, Latin-R, entre otras.
 
-Contacto: patricia.andrea.loto\@gmail.com
+**Contacto:** patricia.andrea.loto\@gmail.com
 
 ### Irene Vazano
 
