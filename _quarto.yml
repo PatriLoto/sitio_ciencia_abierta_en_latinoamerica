@@ -7,7 +7,7 @@ website:
     background: success
     search: true
     left:
-      - text: "Home"
+      - text: "Inicio"
         file: index.qmd
       - text: "Vision"
         file: about.qmd
