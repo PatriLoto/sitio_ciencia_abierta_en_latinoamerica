@@ -11,6 +11,8 @@ website:
         file: index.qmd
       - text: "Vision"
         file: about.qmd
+      - text: "Equipo"
+        file: equipo.qmd
       - text: "Contribuciones"
         file: contribuciones.qmd
     tools:
