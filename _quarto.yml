@@ -9,17 +9,17 @@ website:
     left:
       - text: "Inicio"
         file: index.qmd
-      - text: "Vision"
+      - text: "Conoce nuestro projecto"
         file: about.qmd
       - text: "Equipo"
         file: equipo.qmd
       - text: "Contribuciones"
         file: contribuciones.qmd
     tools:
-      - icon: twitter
+      - icon: mail
         href: https://twitter.com
       - icon: github
-        href: https://github.com
+        href: https://github.com/PatriLoto/sitio_ciencia_abierta_en_latinoamerica
 
 format:
   html:
