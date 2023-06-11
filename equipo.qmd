@@ -2,11 +2,11 @@
 title: "¿Quiénes somos?"
 ---
 
-#### Jesica Formoso
+### Jesica Formoso
 
 ![](images/foto_jesi.png)
 
-#### Patricia Loto
+### Patricia Loto
 
 ![](images/foto_patri_loto.png){fig-alt="foto de perfil de Patricia Loto" fig-align="left" width="253"}
 
@@ -18,6 +18,6 @@ Desde principios del 2021 formó parte del equipo de accesibilidad  de [Metadoc
 
 Contacto: patricia.andrea.loto\@gmail.com
 
-#### Irene Vazano
+### Irene Vazano
 
 ![](images/foto_ire.png)
