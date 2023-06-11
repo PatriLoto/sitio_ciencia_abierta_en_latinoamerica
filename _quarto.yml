@@ -9,7 +9,7 @@ website:
     left:
       - text: "Inicio"
         file: index.qmd
-      - text: "Conoce nuestro projecto"
+      - text: "Nuestro projecto"
         file: about.qmd
       - text: "Equipo"
         file: equipo.qmd
