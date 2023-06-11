@@ -12,16 +12,28 @@ Algunas recomendaciones para iniciar tu colaboración con el proyecto:
 
 -   Familiarízate con el objetivo del proyecto a través de la declaración de visión.
 
--   Lee el Open Canvas y la hoja de ruta y elije tareas u objetivos del proyecto con los que te gustaría contribuir; por ejemplo, documentación, recopilación de información sobre recursos o comunidades, actualizaciones de links, armado de la página web, etc.
+-   Lee el Open Canvas y la hoja de ruta y elije tareas u objetivos del proyecto con los que te gustaría contribuir; por ejemplo, documentación, recopilación de información sobre recursos, workshops o cualquier contenido de ciencia abierta en español, actualizaciones de links, actualización del sitio web, entre otros.
 
 -   Se alienta a los colaboradores a compartir ideas, dar y recibir comentarios y trabajar juntos para lograr los objetivos del proyecto.
 
 ### ¿Cómo comparto mi contribución?
 
-Una vez que sepas en qué aspecto del proyecto te gustaría generar un aporte, puedes hacerlo de tres formas distintas:
+Una vez que sepas en qué aspecto del proyecto te gustaría generar tu aporte, puedes hacerlo de tres formas distintas:
 
 -   Abre un Pull Request (puedes aprender cómo hacerlo con esta guía gratuita [¿Cómo contribuir a un proyecto en GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 -   Añade un nuevo [issue](https://github.com/JFormoso/Comunidad-Abierta-LATAM/issues) con tus sugerencias.
 
--   Completa el siguiente formulario para sumar nuevos recursos al repositorio: <https://forms.gle/Ho6UufEDyvT3ukh6A>.
+-   Completa el siguiente formulario para sumar recursos de ciencia abierta que estén en español al repositorio: <https://forms.gle/Ho6UufEDyvT3ukh6A>. Los recursos que puedes aportar son:
+
+    -   Talleres o workshops gratuitos
+
+    -   Trabajos acádemicos
+
+    -   Comunidades
+
+    -   Organizaciones sin fines de lucro
+
+    -   Oportunidades de fianciación
+
+    -   Material educativo
