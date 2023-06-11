@@ -1,0 +1,15 @@
+---
+title: ""
+---
+
+### **Nuestra vision.**
+
+El objetivo de este proyecto es disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina a través del desarrollo de un repositorio colaborativo que recopile esta información. Este repositorio estará disponible para cualquier persona que quiera acceder a recursos sobre ciencia abierta y/o quiera ponerse en contacto con otros actores regionales y locales de América Latina, o para aquellos que quieran participar en la difusión de prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
+
+### Líderes del Projecto.
+
+-   [Patricia Loto](https://github.com/PatriLoto)
+
+-   [Irene Vazano](https://github.com/4iro)
+
+-   [Jesica Formoso](https://github.com/JFormoso)

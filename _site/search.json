@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": " ",
+    "section": "",
+    "text": "Nuestra vision.\nEl objetivo de este proyecto es disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina a través del desarrollo de un repositorio colaborativo que recopile esta información. Este repositorio estará disponible para cualquier persona que quiera acceder a recursos sobre ciencia abierta y/o quiera ponerse en contacto con otros actores regionales y locales de América Latina, o para aquellos que quieran participar en la difusión de prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.\n\n\nLíderes del Projecto.\n\nPatricia Loto\nIrene Vazano\nJesica Formoso"
+  },
+  {
+    "objectID": "contribuciones.html",
+    "href": "contribuciones.html",
+    "title": "Guía para contribuidores",
+    "section": "",
+    "text": "¿Quiénes pueden contribuir?\nTodas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar prácticas de ciencia abierta o si ya tienen más experiencia.\n\n\n¿Cómo puedo colaborar?\n\nFamiliarízate con el objetivo del proyecto a través de la declaración de visión.\nLee el Open Canvas y la hoja de ruta y elije tareas u objetivos del proyecto con los que te gustaría contribuir; por ejemplo, documentación, recopilación de información sobre recursos o comunidades, actualizaciones de links, armado de la página web, etc.\nSe alienta a los colaboradores a compartir ideas, dar y recibir comentarios y trabajar juntos para lograr los objetivos del proyecto.\n\n\n\n¿Cómo comparto mi contribución?\nUna vez que sepas en qué aspecto del proyecto te gustaría generar un aporte, puedes hacerlo de tres formas distintas:\n\nAbre un Pull Request (puedes aprender cómo hacerlo con esta guía gratuita ¿Cómo contribuir a un proyecto en GitHub?.\nAñade un nuevo issue con tus sugerencias.\nCompleta el siguiente formulario para sumar nuevos recursos al repositorio: https://forms.gle/Ho6UufEDyvT3ukh6A."
+  }
+]
