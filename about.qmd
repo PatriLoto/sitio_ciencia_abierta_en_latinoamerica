@@ -2,7 +2,7 @@
 title: ""
 ---
 
-### **Visión.**
+### **Visión**
 
 El objetivo de este proyecto es disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina a través del desarrollo de un repositorio colaborativo que recopile esta información. Este repositorio estará disponible para cualquier persona que quiera acceder a recursos sobre ciencia abierta y/o quiera ponerse en contacto con otros actores regionales y locales de América Latina, o para aquellos que quieran participar en la difusión de prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
 
@@ -20,6 +20,6 @@ Y en último lugar, la dificultad para encontrar redes, comunidades y organizaci
 
 Nuestra propuesta es construir un repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español.
 
-[![Ilustración por Storyset.](images/servidor.png){fig-alt="servidor de red" fig-align="center" width="400"}](https://storyset.com/technology)
+[![Ilustración por Storyset.](images/servidor.png){fig-alt="servidor de red" width="400"}](https://storyset.com/technology)
 
 ### 
