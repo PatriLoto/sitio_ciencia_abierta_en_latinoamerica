@@ -10,11 +10,18 @@ website:
       - text: "Inicio"
         file: index.qmd
       - text: "Nuestro projecto"
-        file: about.qmd
+        menu:
+          - about.qmd
+          - canva.qmd
+          - licencia.qmd
       - text: "Equipo"
         file: equipo.qmd
-      - text: "Contribuciones"
-        file: contribuciones.qmd
+      - text: "Cómo contribuir"
+        menu:
+          - contribuciones.qmd
+          - conducta.qmd
+          - text: "Formulario" 
+            href: https://forms.gle/Ho6UufEDyvT3ukh6A
     tools:
       - icon: email
         href: https://twitter.com

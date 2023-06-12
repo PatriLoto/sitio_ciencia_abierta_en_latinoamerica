@@ -4,7 +4,13 @@ title: "¿Quiénes somos?"
 
 ### Jesica Formoso
 
-![](images/foto_jesi.png)
+![](images/jformoso.png){fig-alt="Foto de perfil de Jesica Formoso" fig-align="left" width="253"}
+
+Soy Dra. en Psicología Cognitiva e investigadora asistente en el Consejo Nacional de Investigaciones Científicas y Técnicas (Argentina) y especialista en estadística para ciencias de la salud. Además, soy docente de numerosos cursos de grado y posgrado de estadística y programación con R en distintas instituciones educativas. Desde marzo del 2022, formo parte del equipo de medición de impacto de [Metadocencia](https://www.metadocencia.org/) y enseñanza.
+Soy Instructora certificada por [The Carpentries](https://carpentries.org/instructors/) e Instructora de tidyverse por [Rstudio](https://education.rstudio.com/trainers/). 
+Actualmente, soy mentee del programa de mentoreo y entrenamiento Open Seeds de [Open Life Science](https://openlifesci.org/ols-7).
+
+**Contacto:** jesica.formoso\@gmail.com
 
 ### Patricia Loto
 

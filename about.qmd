@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Sobre el proyecto"
 ---
 
 ### **Visión**
@@ -22,4 +22,4 @@ Nuestra propuesta es construir un repositorio colaborativo para América Latina 
 
 [![Ilustración por Storyset.](images/servidor.png){fig-alt="servidor de red" width="400"}](https://storyset.com/technology)
 
-### 
+
