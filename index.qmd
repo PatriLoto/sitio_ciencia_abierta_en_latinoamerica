@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Mapeo de comunidades, organizaciones y eventos de ciencia abierta en latinoamérica"
 ---
-
-### Mapeo de comunidades, organizaciones y eventos de ciencia abierta en latinoamérica. {style="color:  #0e2416"}
 
 [![Ilustración por Storyset](images/trabajo_en_equipo.png){fig-alt="personas trabajando en equipo de manera armoniosa" fig-align="center"}](https://storyset.com/people)
 

@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": " ",
+    "title": "Sobre el proyecto",
     "section": "",
     "text": "Visión\nEl objetivo de este proyecto es disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina a través del desarrollo de un repositorio colaborativo que recopile esta información. Este repositorio estará disponible para cualquier persona que quiera acceder a recursos sobre ciencia abierta y/o quiera ponerse en contacto con otros actores regionales y locales de América Latina, o para aquellos que quieran participar en la difusión de prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.\n\n\nMotivación\n¿Cuál es la motivación principal de nuestro proyecto?\nEn primer lugar, la ausencia de recursos, como workshops, contenido educativo e información sobre cómo iniciarse en la ciencia abierta en Latinoamerica.\nEn segundo lugar, la falta de una plataforma o repositorio que almacene y centralice información actualizada sobre materiales de ciencia abierta en español.\nY en último lugar, la dificultad para encontrar redes, comunidades y organizaciones que adopten y empleen principios abiertos en nuestra región.\n\n\nPropuesta\nNuestra propuesta es construir un repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español.\n\n\n\nIlustración por Storyset."
   },
@@ -11,14 +11,14 @@
     "href": "contribuciones.html",
     "title": "Guía para contribuidores",
     "section": "",
-    "text": "¿Quiénes pueden contribuir?\nTodas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar prácticas de ciencia abierta o si ya tienen más experiencia.\n\n\n¿Cómo puedo colaborar?\nAlgunas recomendaciones para iniciar tu colaboración con el proyecto:\n\nFamiliarízate con el objetivo del proyecto a través de la declaración de visión.\nLee el Open Canvas y la hoja de ruta y elije tareas u objetivos del proyecto con los que te gustaría contribuir; por ejemplo, documentación, recopilación de información sobre recursos, workshops o cualquier contenido de ciencia abierta en español, actualizaciones de links, actualización del sitio web, entre otros.\nSe alienta a los colaboradores a compartir ideas, dar y recibir comentarios y trabajar juntos para lograr los objetivos del proyecto.\n\n\n\n¿Cómo comparto mi contribución?\nUna vez que sepas en qué aspecto del proyecto te gustaría generar tu aporte, puedes hacerlo de tres formas distintas:\n\nAbre un Pull Request (puedes aprender cómo hacerlo con esta guía gratuita ¿Cómo contribuir a un proyecto en GitHub?.\nAñade un nuevo issue con tus sugerencias.\nCompleta el siguiente formulario para sumar recursos al repositorio: https://forms.gle/Ho6UufEDyvT3ukh6A."
+    "text": "¿Quiénes pueden contribuir?\nTodas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar prácticas de ciencia abierta o si ya tienen más experiencia.\n\n\n¿Cómo puedo colaborar?\nAlgunas recomendaciones para iniciar tu colaboración con el proyecto:\n\nFamiliarízate con el objetivo del proyecto a través de la declaración de visión.\nLee el Open Canvas y la hoja de ruta y elije tareas u objetivos del proyecto con los que te gustaría contribuir; por ejemplo, documentación, recopilación de información sobre recursos, workshops o cualquier contenido de ciencia abierta en español, actualizaciones de links, actualización del sitio web, entre otros.\nSe alienta a los colaboradores a compartir ideas, dar y recibir comentarios y trabajar juntos para lograr los objetivos del proyecto.\n\n\n\n¿Cómo comparto mi contribución?\nUna vez que sepas en qué aspecto del proyecto te gustaría generar tu aporte, puedes hacerlo de tres formas distintas:\n\nAbre un Pull Request (puedes aprender cómo hacerlo con esta guía gratuita ¿Cómo contribuir a un proyecto en GitHub?.\nAñade un nuevo issue con tus sugerencias.\nCompleta el siguiente formulario para sumar recursos de ciencia abierta que estén en español al repositorio: https://forms.gle/Ho6UufEDyvT3ukh6A. Los recursos que puedes aportar son:\n\nTalleres o workshops gratuitos\nTrabajos acádemicos\nComunidades\nOrganizaciones sin fines de lucro\nOportunidades de fianciación\nMaterial educativo"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": " ",
+    "title": "Mapeo de comunidades, organizaciones y eventos de ciencia abierta en latinoamérica",
     "section": "",
-    "text": "Mapeo de comunidades, organizaciones y eventos de ciencia abierta en latinoamérica.\n\n\n\nIlustración por Storyset\n\n\nConoce más sobre el proyecto."
+    "text": "Ilustración por Storyset\n\n\nConoce más sobre el proyecto."
   },
   {
     "objectID": "index.html#mapeo-de-comunidades-organizaciones-y-eventos-de-ciencia-abierta-en-latinoamérica.",
@@ -32,6 +32,160 @@
     "href": "equipo.html",
     "title": "¿Quiénes somos?",
     "section": "",
-    "text": "Jesica Formoso\n\n\n\nPatricia Loto\n\n\n\n\n\nSoy Licenciada en Sistemas de Información y Diplomada en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones en la FAMAF por la Universidad Nacional de Córdoba. \nActualmente soy mentee del programa de mentoreo y entrenamiento Open Seeds de Open Life Science.\nDesde principios del 2021 formó parte del equipo de accesibilidad  de Metadocencia y en estos momentos me desempeño como coordinadora de dicho equipo.  Además, soy Instructora certificada por The Carpentries e Instructora de tidyverse por Rstudio. Disfruto de aprender en comunidad por eso formo parte de grandes comunidades como R-Ladies, the Carpentries, Latin-R, entre otras.\nContacto: patricia.andrea.loto@gmail.com\n\n\nIrene Vazano"
+    "text": "Jesica Formoso\n\n\n\n\n\nSoy Dra. en Psicología Cognitiva e investigadora asistente en el Consejo Nacional de Investigaciones Científicas y Técnicas (Argentina) y especialista en estadística para ciencias de la salud. Además, soy docente de numerosos cursos de grado y posgrado de estadística y programación con R en distintas instituciones educativas. Desde marzo del 2022, formo parte del equipo de medición de impacto de Metadocencia y enseñanza. Soy Instructora certificada por The Carpentries e Instructora de tidyverse por Rstudio. Actualmente, soy mentee del programa de mentoreo y entrenamiento Open Seeds de Open Life Science.\nContacto: jesica.formoso@gmail.com\n\n\nPatricia Loto\n\n\n\n\n\nSoy Licenciada en Sistemas de Información y Diplomada en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones en la FAMAF por la Universidad Nacional de Córdoba. Actualmente soy mentee del programa de mentoreo y entrenamiento Open Seeds de Open Life Science. Desde principios del 2021 formó parte del equipo de accesibilidad  de Metadocencia y en estos momentos me desempeño como coordinadora de dicho equipo.  Además, soy Instructora certificada por The Carpentries e Instructora de tidyverse por Rstudio. Disfruto de aprender en comunidad por eso formo parte de grandes comunidades como R-Ladies, the Carpentries, Latin-R, entre otras.\nContacto: patricia.andrea.loto@gmail.com\n\n\nIrene Vazano\n\n\n\n\n\nSoy Licenciada en Bibliotecología y diplomada en desarrollo front end, con amplia experiencia en trabajo informático. Mentee de la séptima cohorte del programa de mentoreo y entrenamiento Open Seeds de Open Life Science. Formo parte de MetaDocencia desde 2020 y en estos momentos me desempeño como coordinadora interina del área de Infraestructura. Soy instructora certificada por The Carpentries y especialista en accesibilidad digital por el Instituto de Accesibilidad. Soy desarrolladora Front-end por la UTN Facultad Regional Buenos Aires.\nContacto: irene.vazano@gmail.com"
+  },
+  {
+    "objectID": "conducta.html",
+    "href": "conducta.html",
+    "title": "Pautas de convivencia",
+    "section": "",
+    "text": "Quienes organizamos este proyecto nos comprometemos a fomentar un ambiente abierto, seguro y amigable y garantizar la participación de todas las personas en nuestras actividades y espacios virtuales independientemente de su edad, género, orientación sexual, discapacidad, apariencia física, nacionalidad, raza, etnia, religión (o la falta de ella), ideología u opciones tecnológicas.\nTodas las personas que participen en este espacio, incluyendo coordinadores, usuarios y colaboradores, deberán aceptar y respetar el siguiente código de conducta.\nSi presencias una situación que viole este código de conducta, por favor, reportalo a comunidadabiertalatam@gmail.com.\n\n\n\nDemostrar empatía y amabilidad ante otras personas\nRespetar diferentes opiniones, puntos de vista y experiencias\nDar y aceptar adecuadamente retroalimentación constructiva\nAceptar la responsabilidad y disculparse ante quienes afectemos por nuestros errores, involuntarios o no, aprendiendo de la experiencia\nCentrarse en lo que sea mejor no sólo para nosotros como personas, sino para la comunidad en general\nRealizar contribuciones relevantes brindando el crédito necesario y requerido según las disposiciones regionales\n\n\n\n\n\nEl uso de lenguaje o imágenes sexualizadas como también atención o avances sexuales no deseados\nComentarios despectivos (trolling), insultantes y ataques personales\nCualquier tipo de acoso en público o privado\nPublicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito\nEl plagio o la violación de derechos de autor o propiedad de cualquier tipo\nOtras conductas que puedan ser razonablemente consideradas como inapropiadas en un entorno profesional\n\n\n\n\nEste código de conducta aplica a todos los espacios relacionados con Comunidad Abierta LATAM. Esto incluye la cuenta de correo electrónico, nuestras redes sociales, el repositorio en github y cualquier otro medio que sea parte del proyecto.\n\n\n\nQuienes coordinan este proyecto son responsables de aclarar los estándares de comportamiento aceptable y se reservan el derecho de admisión o permanencia, temporal o permanente, en la comunidad para cualquier caso de comportamiento considerado inaceptable.\nTambién tiene la responsabilidad y se reserva el derecho de eliminar, editar o rechazar comentarios, materiales y otras contribuciones que no estén alineadas con este Código de Conducta.\nLos casos de comportamiento inaceptable pueden ser informados enviando un correo electrónico a comunidadabiertalatam@gmail.com con “ASUNTO: Código de conducta”. Todos los mensajes serán revisados e investigados y darán como resultado una respuesta apropiada a las circunstancias. Se respetará en todo momento la privacidad y seguridad de las personas afectadas y/o que reporten un incidente.\n\n\nContacta a alguna de las personas del equipo líder. También puedes escribirnos a comunidadabiertalatam@gmail.com.\nAdaptado de las Pautas de convivencia de MetaDocencia: https://www.metadocencia.org/cdc/"
+  },
+  {
+    "objectID": "canva.html",
+    "href": "canva.html",
+    "title": "Open canvas",
+    "section": "",
+    "text": "Acerca Del Producto\nProblema 1. Escasa disponibilidad de recursos (talleres, contenido, etc.) y espacios sobre cómo iniciarse en ciencia abierta en la región en español. 2. Inexistencia de una plataforma o repositorio que contenga/o centralice información actualizada sobre recursos, eventos y comunidades de ciencia abierta en el idioma español. 3. Dificultad para encontrar comunidades y redes que utilicen prácticas abiertas en Latinoamérica.\nSolución Propuesta Repositorio colaborativo que reúna información actualizada y accesible de recursos, eventos, y comunidades de ciencia abierta en español de América Latina.\nMétricas principales\n\nCantidad de eventos, comunidades y recursos disponibles en el repositorio (x mes, x año).\n\nGoogle analytics - cantidad de visitas que tiene el sitio del proyecto(medida de visibilidad)\nCantidad de colaboradores y/o contribuciones al proyecto.\nCantidad de eventos, comunidades y recursos agregados (x mes, x año).\n\nRecursos Necesarios\n\nPlataforma para alojar el repositorio (github).\nFramework (github pages / Netlify / jekyll)\nCuenta de Gmail. Colaboradores (recursos humanos).\nLenguaje para el desarrollo del repositorio (ej: R, Python o cualquier otro).\nIDE para el desarrollo del proyecto (ej: Rstudio).\nHardware: 3 pcs/notebooks.\nInternet.\nCódigo de conducta\nGuía sobre cómo colaborar con el proyecto.\n\n\n\nAcerca de la Comunidad\nPropuesta de valor única\nPrimer repositorio colaborativo sobre ciencia abierta en Latinoamérica, de fácil uso y con contenido completamente en español.\nPerfiles de los usuarios\nInvestigadores, estudiantes y comunidades con interés en ciencia abierta en América Latina que utilicen el repositorio con el fin de entrar en contacto con otros actores regionales y locales de prácticas abiertas y/o estar al tanto de eventos relacionados con ciencia abierta.\nCanales de comunicación con los usuarios\n\nSitio web del proyecto.\nRed social (twitter) que permitirá darle difusión al proyecto.\nNewsletter.\nGoogle forms para el envío de contribuciones.\n\nPerfiles de los colaboradores Científicos, investigadores y organizaciones que quieran difundir su trabajo aportando material para sumarlo al repositorio.\nCientíficos, investigadores y técnicos que colaboren con el mantenimiento y/o mejora del repositorio y/o documentación del mismo.\nCanales de comunicación con los colaboradores\n\nPlataforma donde estará alojado el repositorio/proyecto (github).\nRed social que permite dar difusión al llamado a colaboradores al proyecto.\nPlataforma abierta para la comunicación entre colaboradores que permita crear comunidad.\nGoogle forms."
+  },
+  {
+    "objectID": "canva.html#acerca-de-la-comunidad",
+    "href": "canva.html#acerca-de-la-comunidad",
+    "title": "Open canvas",
+    "section": "Acerca de la Comunidad:",
+    "text": "Acerca de la Comunidad:\nPropuesta de valor única\nPrimer repositorio colaborativo sobre ciencia abierta en Latinoamérica, de fácil uso y con contenido completamente en español.\nPerfiles de los usuarios\nInvestigadores, estudiantes y comunidades con interés en ciencia abierta en América Latina que utilicen el repositorio con el fin de entrar en contacto con otros actores regionales y locales de prácticas abiertas y/o estar al tanto de eventos relacionados con ciencia abierta.\nCanales de comunicación con los usuarios\n\nSitio web del proyecto.\nRed social (twitter) que permitirá darle difusión al proyecto.\nNewsletter.\nGoogle forms para el envío de contribuciones.\n\nPerfiles de los colaboradores Científicos, investigadores y organizaciones que quieran difundir su trabajo aportando material para sumarlo al repositorio.\nCientíficos, investigadores y técnicos que colaboren con el mantenimiento y/o mejora del repositorio y/o documentación del mismo.\nCanales de comunicación con los colaboradores\n\nPlataforma donde estará alojado el repositorio/proyecto (github).\nRed social que permite dar difusión al llamado a colaboradores al proyecto.\nPlataforma abierta para la comunicación entre colaboradores que permita crear comunidad.\nGoogle forms."
+  },
+  {
+    "objectID": "licencia.html",
+    "href": "licencia.html",
+    "title": "Licencia",
+    "section": "",
+    "text": "Este proyecto pone sus materiales a disposición del público bajo licencias de código abierto. Toda la documentación y los materiales publicados en este repositorio están disponibles bajo una licencia CC BY-SA-NC. A continuación, puedes leer más sobre la licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional."
+  },
+  {
+    "objectID": "tabla.html",
+    "href": "tabla.html",
+    "title": "Old Faithful",
+    "section": "",
+    "text": "Number of bins:"
+  },
+  {
+    "objectID": "layout.html",
+    "href": "layout.html",
+    "title": "Component Layout",
+    "section": "",
+    "text": "---\ntitle: \"Iris K-Means Clustering\"\nformat: \n  html:\n    page-layout: custom\nserver: shiny\n---\n\n```{r}\n#| panel: sidebar\nvars <- setdiff(names(iris), \"Species\")\nselectInput('xcol', 'X Variable', vars)\nselectInput('ycol', 'Y Variable', vars, selected = vars[[2]])\nnumericInput('clusters', 'Cluster count', 3, min = 1, max = 9)\n```\n\n```{r}\n#| panel: fill\nplotOutput('plot1')\n```"
+  },
+  {
+    "objectID": "shiny/execution.html",
+    "href": "shiny/execution.html",
+    "title": "Execution Contexts",
+    "section": "",
+    "text": "Shiny interactive documents can contain both code that executes at render time as well as code that executes on the server in response to user actions and changes in input values. A solid understanding of these execution contexts is important both to have the right mental model during development as well as to optimize the performance of your document."
+  },
+  {
+    "objectID": "shiny/execution.html#render-server-contexts",
+    "href": "shiny/execution.html#render-server-contexts",
+    "title": "Execution Contexts",
+    "section": "Render & Server Contexts",
+    "text": "Render & Server Contexts\nTo break this down more clearly, let’s revisit the “Hello, Shiny” document we started with in the introduction to interactive documents:\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\n\n```{r}\nsliderInput(\"bins\", \"Number of bins:\", \n            min = 1, max = 50, value = 30)\nplotOutput(\"distPlot\")\n```\n\n```{r}\n#| context: server\noutput$distPlot <- renderPlot({\n  x <- faithful[, 2]  # Old Faithful Geyser data\n  bins <- seq(min(x), max(x), length.out = input$bins + 1)\n  hist(x, breaks = bins, col = 'darkgray', border = 'white')\n})\n```\nHere is how execution breaks down for this document:\n\nThe first code chunk that contains the calls to sliderInput() and plotOutput() will execute when you render the document (e.g. quarto render old-faithful.qmd).\nThe second code chunk with the context: server option will not execute at render time, but rather will execute only when the document is served.\n\nIt’s critical to understand that the two chunks are run in completely separate R sessions. That means that you cannot access variables created in the first chunk within the second, and vice-versa. The is analogous to the ui.R and server.R scripts that compose most normal Shiny applications.\nOf course, it’s quite useful to be able to re-use code between contexts, and we’ll cover some ways to do this in the Sharing Code section below.\n\n\n\n\n\n\nIn order to make the code of interactive documents straightforward to understand and work with, we strongly recommend that your server contexts (there can be more than one) be located at the bottom of the document. This makes the separate execution environments more clear in the flow of the document source code.\n\n\n\n\nserver.R\nThere is one other option if you prefer to have a stronger separation. You can restrict your .qmd file to only code that will execute at render time, and then split out the server code into a separate server.R file.\nRe-writing our example in this fashion would look like this:\n\nold-faithful.qmd\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\n\n```{r}\nsliderInput(\"bins\", \"Number of bins:\", \n            min = 1, max = 50, value = 30)\nplotOutput(\"distPlot\")\n```\n\n\nserver.R\nfunction(input, output, session) {\n  output$distPlot <- renderPlot({\n    x <- faithful[, 2]  # Old Faithful Geyser data\n    bins <- seq(min(x), max(x), length.out = input$bins + 1)\n    hist(x, breaks = bins, col = 'darkgray', border = 'white')\n  })\n}\nThis is perhaps a bit less convenient but does align better with the traditional ui.R / server.R separation that exists in traditional Shiny applications."
+  },
+  {
+    "objectID": "shiny/execution.html#sharing-code",
+    "href": "shiny/execution.html#sharing-code",
+    "title": "Execution Contexts",
+    "section": "Sharing Code",
+    "text": "Sharing Code\nSharing code between rendering contexts works a bit differently depending on if your code is in a single .qmd file or if it uses server.R. We’ll cover both scenarios below.\n\nSingle File\n\ncontext: setup\nTo have code execute in both rendering and serving contexts, create a code chunk with context: setup. For example:\n```{r}\n#| context: setup\n#| include: false\n\n# load libraries\nlibrary(dplyr)\n\n# load data\ndataset <- import_data(\"data.csv\")\ndataset <- sample_n(dataset, 1000)\n```\nThis code will execute at both render time as well as when the server is created for each new user session. Note that we also specify include: false to make sure that code, warnings, and output from the chunk are not included in the rendered document.\n\n\ncontext: data\nThe loading and manipulation of data often dominates the startup time of Shiny applications. Since interactive documents are executed in two phases (the initial render and then the serving of the document to users) we can perform the expensive data manipulations during rendering and then simply load the data when starting up the application.\nYou can define prerendered data by adding the context: data option to an R code chunk. The chunk will be executed during render and any R objects it creates will be saved to an .RData file, which will then be loaded during Shiny server startup. For example, we could take the the setup chunk illustrated above and factor out the data loading into its own chunk:\n```{r}\n#| context: data\n#| include: false\n\ndataset <- import_data(\"data.csv\")\ndataset <- sample_n(dataset, 1000)\n```\nNote that R objects created within a context: data chunk are available to both the UI rendering and server contexts.\n\n\nKnitr cache\nYou can further improve the performance of data rendering by adding the cache: true option to the data chunk. This will cause the code chunk to be re-executed only when required. For example:\n```{r}\n#| context: data\n#| include: false\n#| cache: true\n#| cache.extra: !expr file.info(\"data.csv\")$mtime\n\ndataset <- import_data(\"data.csv\")\ndataset <- sample_n(dataset, 1000)\n```\nIn this example the cache will be invalidated if either the R code in the chunk changes or the modification time of the “data.csv” file changes (this is accomplished using the cache.extra option).\nYou can also invalidate an existing cache by removing the _cache directory alongside with your interactive document.\n\n\ncontext: server-start\nThere is one additional execution context that enables you to share code and data across multiple user sessions. Chunks with context: server-start executee once when the Shiny document is first run and are not re-executed for each new user of the document. Using context: server-start is appropriate for several scenarios including:\n\nEstablishing shared connections to remote servers (e.g. databases, Spark contexts, etc.).\nCreating reactive values intended to be shared across sessions (e.g. with reactivePoll or reactiveFileReader).\n\nFor example:\n```{r}\n#| context: server-start\n\nlibrary(DBI)\ndb <- dbConnect(...)\n```\n\n\n\nMultiple Files\nIf your interactive document uses a .qmd file to define the user-interface and a server.R file for the server, you can put shared code in a file named global.R. Functions and variables defined within global.R will be available both during render as well as during execution of the server.\nIn this scenario your interactive document consists of 3 source files:\n\n\n\n\n\n\n\nFile\nDescription\n\n\n\n\ndoc.qmd\nMarkdown content as well as Shiny inputs and outputs (e.g. sliderInput(), plotOutput(), etc.)\n\n\nserver.R\nMain server function with reactive expressions, assignments to outputs, etc.\n\n\nglobal.R\nCode shared between doc.qmd and server.R."
+  },
+  {
+    "objectID": "shiny/index.html",
+    "href": "shiny/index.html",
+    "title": "Shiny",
+    "section": "",
+    "text": "If you are an R user, you may already be familiar with Shiny, a package that makes it easy to build interactive web apps with R.\nWhen using the Knitr computation engine, Quarto documents can include embedded Shiny components (e.g. a plot with sliders that control its inputs) or even simple Shiny applications that include several components.\nThis section covers integrating Shiny with Quarto and assumes that you already have basic familiarity with Shiny. To learn more about Shiny please visit https://shiny.rstudio.com.\n\n\n\n\n\n\nIn order to run the examples below you will need the very latest version of the rmarkdown package (v2.10), which you can install with:\n install.packages(\"rmarkdown\")"
+  },
+  {
+    "objectID": "shiny/index.html#hello-shiny",
+    "href": "shiny/index.html#hello-shiny",
+    "title": "Shiny",
+    "section": "Hello, Shiny",
+    "text": "Hello, Shiny\nFor example, here’s a document that contains a plot of the “Old Faithful” dataset along with a slider to control the number of bins:\n\nHere’s the source code for this example:\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\n\n```{r}\nsliderInput(\"bins\", \"Number of bins:\", \n            min = 1, max = 50, value = 30)\nplotOutput(\"distPlot\")\n```\n\n```{r}\n#| context: server\noutput$distPlot <- renderPlot({\n  x <- faithful[, 2]  # Old Faithful Geyser data\n  bins <- seq(min(x), max(x), length.out = input$bins + 1)\n  hist(x, breaks = bins, col = 'darkgray', border = 'white')\n})\n```\nThere are two important differences between this document and a normal static document:\n\nThe inclusion server: shiny within the document’s options, which instructs Quarto to run a Shiny Server behind the document:\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\nThe inclusion of context: server as an option in the second code chunk, which delineates this R code as running within the Shiny Server (this is the code you would typically put in server.R):\n```{r}\n#| context: server\n```\n\nWe’ll cover running and deploying Quarto documents with Shiny components in the article on Running Documents. Before that though, let’s cover a more in-depth example."
+  },
+  {
+    "objectID": "shiny/index.html#custom-layout",
+    "href": "shiny/index.html#custom-layout",
+    "title": "Shiny",
+    "section": "Custom Layout",
+    "text": "Custom Layout\nHere’s an example that includes multiple inputs as well as a more application like page layout with a sidebar:\n\nHere’s the source code for this example:\n---\ntitle: \"Iris K-Means Clustering\"\nformat: \n  html:\n    page-layout: custom\nserver: shiny\n---\n\n```{r}\n#| panel: sidebar\nvars <- setdiff(names(iris), \"Species\")\nselectInput('xcol', 'X Variable', vars)\nselectInput('ycol', 'Y Variable', vars, selected = vars[[2]])\nnumericInput('clusters', 'Cluster count', 3, min = 1, max = 9)\n```\n\n```{r}\n#| panel: fill\nplotOutput('plot1')\n```\n\n```{r}\n#| context: server\nselectedData <- reactive({\n    iris[, c(input$xcol, input$ycol)]\n  })\n\nclusters <- reactive({\n  kmeans(selectedData(), input$clusters)\n})\n\noutput$plot1 <- renderPlot({\n  palette(c(\"#E41A1C\", \"#377EB8\", \"#4DAF4A\", \"#984EA3\",\n    \"#FF7F00\", \"#FFFF33\", \"#A65628\", \"#F781BF\", \"#999999\"))\n\n  par(mar = c(5.1, 4.1, 0, 1))\n  plot(selectedData(),\n       col = clusters()$cluster,\n       pch = 20, cex = 3)\n  points(clusters()$centers, pch = 4, cex = 4, lwd = 4)\n})\n```\nThere are a few things worth noting in this example:\n\nThe YAML front-matter includes the page-layout: custom option (to indicate we want our content to occupy the entire page rather than being centered with padding).\nWe add panel: sidebar and panel: fill to the two code chunks that define the user-interface to specify that we want them laid out in special panel containers.\nWe again use context: server on the last R code chunk to indicate that it contains the Shiny Server code.\n\n\nPage Layout\nSome interactive documents you create will use narrative interspersed with Shiny components and some (like this example) will be full page applications. Some may even by hybrids—for example imagine a sidebar on the left containing inputs that control outputs interspersed with narrative in the main document body.\nSee the article on Component Layout to learn more about the available tools for managing the layout of interactive documents."
+  },
+  {
+    "objectID": "shiny/index.html#examples",
+    "href": "shiny/index.html#examples",
+    "title": "Shiny",
+    "section": "Examples",
+    "text": "Examples\nHere are some deployed examples of Quarto documents that use Shiny:\n\n\n\nExample\nSource\nDescription\n\n\n\n\nOld Faithful\nCode\nDemonstrates incorporating an interactive plot into the main flow of a document.\n\n\nK-Means\nCode\nDemonstrates using a more “application-like” page layout (sidebar and main panel)\n\n\nDiamonds\nCode\nDemonstrates an alternate way to layout inputs (at the bottom of the page in three columns)."
+  },
+  {
+    "objectID": "shiny/index.html#learning-more",
+    "href": "shiny/index.html#learning-more",
+    "title": "Shiny",
+    "section": "Learning More",
+    "text": "Learning More\nTo learn more about Shiny interactive documents see the following articles:\n\nRunning Documents covers how to run interactive documents both within RStudio and at the command line, as well as how to deploy them to end users.\nExecution Contexts goes in depth on when different code blocks (e.g. rendering vs. serving) run as well as how to cache expensive computations for more responsive documents.\nExternal Resources describes how to make sure that Shiny can locate resources (e.g. CSS, JS, images, etc.) that you include in your document.\nComponent Layout enumerates the various techniques you can use to layout interactive components within your documents.\n\nIf you are using both JavaScript and Shiny to create interactive documents, you might also be interested in the article on using Shiny Reactives with OJS."
+  },
+  {
+    "objectID": "shiny/resources.html",
+    "href": "shiny/resources.html",
+    "title": "External Resources",
+    "section": "",
+    "text": "There are two types of external resource file that might be referenced from within a Shiny interactive document:\n\nFiles referenced from R code (e.g. R scripts, datasets, configuration files, etc.); and\nStatic assets referenced from the web document (e.g. CSS style-sheets, images, etc.)\n\nBelow we’ll describe how each of these resource types are handled within interactive documents."
+  },
+  {
+    "objectID": "shiny/resources.html#code-resources",
+    "href": "shiny/resources.html#code-resources",
+    "title": "External Resources",
+    "section": "Code Resources",
+    "text": "Code Resources\nFor files referenced from R code, you can reference anything located within the directory of (or sub-directories of) the main .qmd file. This is no different than with any other .qmd file or even R script.\nSimilarly, files created by executing R code (e.g. figures generated from code chunks) are automatically located in the document _files directory alongside the HTML output file. No special handling is required for these files."
+  },
+  {
+    "objectID": "shiny/resources.html#asset-resources",
+    "href": "shiny/resources.html#asset-resources",
+    "title": "External Resources",
+    "section": "Asset Resources",
+    "text": "Asset Resources\nMany interactive documents will consist of only the generated HTML and figures located in the _files directory. However, in some cases you may want to add static images, CSS files, or other assets to your document.\nIn these cases, you need to be sure to locate the files within one of the following specially named sub-directories to ensure they can be located by the Shiny server:\n\n\n\nDirectory\nDescription\n\n\n\n\nimages/\nImage files (e.g. PNG, JPEG, etc.)\n\n\ncss/\nCSS stylesheets\n\n\njs/\nJavaScript scripts\n\n\nwww/\nAny other files (e.g. downloadable datasets)\n\n\n\nThe reason that all files within the directory of the main .qmd can’t be referenced from within the web document is that many of these files are application source code and data, which may not be something you want to be downloadable by end users. By restricting the files which can be referenced to the above directories you can control which files are downloadable and which are not."
+  },
+  {
+    "objectID": "shiny/running.html",
+    "href": "shiny/running.html",
+    "title": "Running Documents",
+    "section": "",
+    "text": "There are a number of ways to run Shiny interactive documents:\n\nUse Run Document within the RStudio IDE.\nUse the quarto serve command line interface.\nDeploy them to a server for use by a wider audience.\n\nWe’ll cover all of these scenario in depth here. Note that in order to run interactive Shiny documents you will to install the very latest version of the rmarkdown package (v2.10) which you can install as follows:\ninstall.packages(\"rmarkdown\")"
+  },
+  {
+    "objectID": "shiny/running.html#rstudio-ide",
+    "href": "shiny/running.html#rstudio-ide",
+    "title": "Running Documents",
+    "section": "RStudio IDE",
+    "text": "RStudio IDE\nWhile you are developing an interactive document it will likely be most convenient to run within RStudio.\nNote that you need RStudio ?var:rstudio.min_version or a later version in order to run Quarto interactive documents. You can download the latest release (?var:rstudio.current_release) here https://posit.co/download/rstudio-desktop/.\nClick the Run Document button while editing a Shiny interactive document to render and view the document within the IDE:\n\nWhen you make changes, just click Run Document again to see them reflected in the document preview.\nTwo options you may want to consider enabling are Run on Save and Preview in Viewer Pane (by default previews occur in an external window). You can access these options on the editor toolbar:"
+  },
+  {
+    "objectID": "shiny/running.html#command-line",
+    "href": "shiny/running.html#command-line",
+    "title": "Running Documents",
+    "section": "Command Line",
+    "text": "Command Line\nYou can also run Shiny interactive documents from the command line via quarto serve. For example:\n\n\nTerminal\n\nquarto serve document.qmd\n\nThere are a number of options to the serve command to control the port and host of the document server as well as whether a browser is automatically opened for the running document. You can learn more about these options with quarto serve help.\nIf you are within an R session you can also use the quarto R package to run a document:\nlibrary(quarto)\nquarto_serve(\"document.qmd\")"
+  },
+  {
+    "objectID": "shiny/running.html#deployment",
+    "href": "shiny/running.html#deployment",
+    "title": "Running Documents",
+    "section": "Deployment",
+    "text": "Deployment\n\nShinyApps\nYou can publish Shiny interactive documents to the ShinyApps hosted service. To do this you should ensure that you have:\n\nAn account on ShinyApps (use the signup form to create an account).\nThe very latest versions of the rsconnect and quarto R packages. You can install them as follows:\ninstall.packages(\"rsconnect\")\ninstall.packages(\"quarto\")\n\nYou can then deploy your interactive document using the quarto_publish_app() function of the quarto package. You can do this as follows (working from the directory that contains your document):\nlibrary(quarto)\nquarto_publish_app(server = \"shinyapps.io\")\nIf you are using RStudio you can also use the Publish button  available when working with an interactive document:\n\nNote that you should always Run Document locally prior to publishing your document (as this will create the .html file that is served on ShinyApps.\n\n\nPosit Connect\nPosit Connect is a server product from Posit for secure sharing of applications, reports, and plots. You can publish Shiny interactive documents to Posit Connect in much the same way as described above for ShinyApps.\nFirst, make sure you very latest development versions of the rsconnect and quarto R packages. You can install them as follows:\ninstall.packages(\"rsconnect\")\ninstall.packages(\"quarto\")\nNext, deploy your interactive document using the quarto_publish_app() function of the quarto package, providing the domain name or IP address of your Posit Connect installation via the server parameter. You can do this as follows (working from the directory that contains your document):\nlibrary(quarto)\nquarto_publish_app(server = \"rsc.example.com\")\nIf you are using RStudio you can also use the Publish button  as described above in the ShinyApps documentation:\n\nAs with ShinyApps, you should always Run Document locally prior to publishing your document (as this will create the .html file that is served by Posit Connect)."
+  },
+  {
+    "objectID": "k-means/shiny-k-means.html",
+    "href": "k-means/shiny-k-means.html",
+    "title": "Iris K-Means Clustering",
+    "section": "",
+    "text": "X Variable\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\n\n\n\n\n\n\nY Variable\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\n\n\n\n\n\n\nCluster count"
   }
 ]
