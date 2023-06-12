@@ -1,8 +1,0 @@
----
-title: "Iris K-Means Clustering"
-format: 
-  html:
-    page-layout: full
-server: shiny
----
-
