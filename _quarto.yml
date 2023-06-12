@@ -33,6 +33,7 @@ format:
     theme: lux
     css: styles.css
     toc: true
+    lang: es
 
 editor: visual
 

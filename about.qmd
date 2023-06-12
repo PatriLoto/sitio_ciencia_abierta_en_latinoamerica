@@ -21,5 +21,3 @@ Y en último lugar, la dificultad para encontrar redes, comunidades y organizaci
 Nuestra propuesta es construir un repositorio colaborativo para América Latina que reúna información relevante y accesible sobre eventos, oportunidades de financiación, talleres, cursos, comunidades y organizaciones de ciencia abierta en español.
 
 [![Ilustración por Storyset.](images/servidor.png){fig-alt="servidor de red" width="400"}](https://storyset.com/technology)
-
-

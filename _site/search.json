@@ -32,7 +32,7 @@
     "href": "equipo.html",
     "title": "¿Quiénes somos?",
     "section": "",
-    "text": "Jesica Formoso\n\n\n\n\n\nSoy Dra. en Psicología Cognitiva e investigadora asistente en el Consejo Nacional de Investigaciones Científicas y Técnicas (Argentina) y especialista en estadística para ciencias de la salud. Además, soy docente de numerosos cursos de grado y posgrado de estadística y programación con R en distintas instituciones educativas. Desde marzo del 2022, formo parte del equipo de medición de impacto de Metadocencia y enseñanza. Soy Instructora certificada por The Carpentries e Instructora de tidyverse por Rstudio. Actualmente, soy mentee del programa de mentoreo y entrenamiento Open Seeds de Open Life Science.\nContacto: jesica.formoso@gmail.com\n\n\nPatricia Loto\n\n\n\n\n\nSoy Licenciada en Sistemas de Información y Diplomada en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones en la FAMAF por la Universidad Nacional de Córdoba. \nActualmente soy mentee del programa de mentoreo y entrenamiento Open Seeds de Open Life Science.\nDesde principios del 2021 formó parte del equipo de accesibilidad  de Metadocencia y en estos momentos me desempeño como coordinadora de dicho equipo.  Además, soy Instructora certificada por The Carpentries e Instructora de tidyverse por Rstudio. Disfruto de aprender en comunidad por eso formo parte de grandes comunidades como R-Ladies, the Carpentries, Latin-R, entre otras.\nContacto: patricia.andrea.loto@gmail.com\n\n\nIrene Vazano"
+    "text": "Jesica Formoso\n\n\n\n\n\nSoy Dra. en Psicología Cognitiva e investigadora asistente en el Consejo Nacional de Investigaciones Científicas y Técnicas (Argentina) y especialista en estadística para ciencias de la salud. Además, soy docente de numerosos cursos de grado y posgrado de estadística y programación con R en distintas instituciones educativas. Desde marzo del 2022, formo parte del equipo de medición de impacto de Metadocencia y enseñanza. Soy Instructora certificada por The Carpentries e Instructora de tidyverse por Rstudio. Actualmente, soy mentee del programa de mentoreo y entrenamiento Open Seeds de Open Life Science.\nContacto: jesica.formoso@gmail.com\n\n\nPatricia Loto\n\n\n\n\n\nSoy Licenciada en Sistemas de Información y Diplomada en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones en la FAMAF por la Universidad Nacional de Córdoba.\nActualmente soy mentee del programa de mentoreo y entrenamiento Open Seeds de Open Life Science.\nDesde principios del 2021 formó parte del equipo de accesibilidad  de Metadocencia y en estos momentos me desempeño como coordinadora de dicho equipo.  Además, soy Instructora certificada por The Carpentries e Instructora de tidyverse por Rstudio. Disfruto de aprender en comunidad por eso formo parte de grandes comunidades como R-Ladies, the Carpentries, Latin-R, entre otras.\nContacto: patricia.andrea.loto@gmail.com\n\n\nIrene Vazano"
   },
   {
     "objectID": "conducta.html",
@@ -61,5 +61,131 @@
     "title": "Licencia",
     "section": "",
     "text": "Este proyecto pone sus materiales a disposición del público bajo licencias de código abierto. Toda la documentación y los materiales publicados en este repositorio están disponibles bajo una licencia CC BY-SA-NC. A continuación, puedes leer más sobre la licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional."
+  },
+  {
+    "objectID": "tabla.html",
+    "href": "tabla.html",
+    "title": "Ciencia abierta en Latinoamerica",
+    "section": "",
+    "text": "Attaching package: 'DT'\n\n\nThe following objects are masked from 'package:shiny':\n\n    dataTableOutput, renderDataTable\n\n\nWarning: package 'tidyverse' was built under R version 4.2.3\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.0     ✔ readr     2.1.4\n✔ forcats   1.0.0     ✔ stringr   1.5.0\n✔ ggplot2   3.4.1     ✔ tibble    3.1.8\n✔ lubridate 1.9.2     ✔ tidyr     1.3.0\n✔ purrr     1.0.1     \n\n\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors\nNew names:"
+  },
+  {
+    "objectID": "layout.html",
+    "href": "layout.html",
+    "title": "Component Layout",
+    "section": "",
+    "text": "---\ntitle: \"Iris K-Means Clustering\"\nformat: \n  html:\n    page-layout: custom\nserver: shiny\n---\n\n```{r}\n#| panel: sidebar\nvars <- setdiff(names(iris), \"Species\")\nselectInput('xcol', 'X Variable', vars)\nselectInput('ycol', 'Y Variable', vars, selected = vars[[2]])\nnumericInput('clusters', 'Cluster count', 3, min = 1, max = 9)\n```\n\n```{r}\n#| panel: fill\nplotOutput('plot1')\n```"
+  },
+  {
+    "objectID": "shiny/execution.html",
+    "href": "shiny/execution.html",
+    "title": "Execution Contexts",
+    "section": "",
+    "text": "Shiny interactive documents can contain both code that executes at render time as well as code that executes on the server in response to user actions and changes in input values. A solid understanding of these execution contexts is important both to have the right mental model during development as well as to optimize the performance of your document."
+  },
+  {
+    "objectID": "shiny/execution.html#render-server-contexts",
+    "href": "shiny/execution.html#render-server-contexts",
+    "title": "Execution Contexts",
+    "section": "Render & Server Contexts",
+    "text": "Render & Server Contexts\nTo break this down more clearly, let’s revisit the “Hello, Shiny” document we started with in the introduction to interactive documents:\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\n\n```{r}\nsliderInput(\"bins\", \"Number of bins:\", \n            min = 1, max = 50, value = 30)\nplotOutput(\"distPlot\")\n```\n\n```{r}\n#| context: server\noutput$distPlot <- renderPlot({\n  x <- faithful[, 2]  # Old Faithful Geyser data\n  bins <- seq(min(x), max(x), length.out = input$bins + 1)\n  hist(x, breaks = bins, col = 'darkgray', border = 'white')\n})\n```\nHere is how execution breaks down for this document:\n\nThe first code chunk that contains the calls to sliderInput() and plotOutput() will execute when you render the document (e.g. quarto render old-faithful.qmd).\nThe second code chunk with the context: server option will not execute at render time, but rather will execute only when the document is served.\n\nIt’s critical to understand that the two chunks are run in completely separate R sessions. That means that you cannot access variables created in the first chunk within the second, and vice-versa. The is analogous to the ui.R and server.R scripts that compose most normal Shiny applications.\nOf course, it’s quite useful to be able to re-use code between contexts, and we’ll cover some ways to do this in the Sharing Code section below.\n\n\n\n\n\n\nIn order to make the code of interactive documents straightforward to understand and work with, we strongly recommend that your server contexts (there can be more than one) be located at the bottom of the document. This makes the separate execution environments more clear in the flow of the document source code.\n\n\n\n\nserver.R\nThere is one other option if you prefer to have a stronger separation. You can restrict your .qmd file to only code that will execute at render time, and then split out the server code into a separate server.R file.\nRe-writing our example in this fashion would look like this:\n\nold-faithful.qmd\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\n\n```{r}\nsliderInput(\"bins\", \"Number of bins:\", \n            min = 1, max = 50, value = 30)\nplotOutput(\"distPlot\")\n```\n\n\nserver.R\nfunction(input, output, session) {\n  output$distPlot <- renderPlot({\n    x <- faithful[, 2]  # Old Faithful Geyser data\n    bins <- seq(min(x), max(x), length.out = input$bins + 1)\n    hist(x, breaks = bins, col = 'darkgray', border = 'white')\n  })\n}\nThis is perhaps a bit less convenient but does align better with the traditional ui.R / server.R separation that exists in traditional Shiny applications."
+  },
+  {
+    "objectID": "shiny/execution.html#sharing-code",
+    "href": "shiny/execution.html#sharing-code",
+    "title": "Execution Contexts",
+    "section": "Sharing Code",
+    "text": "Sharing Code\nSharing code between rendering contexts works a bit differently depending on if your code is in a single .qmd file or if it uses server.R. We’ll cover both scenarios below.\n\nSingle File\n\ncontext: setup\nTo have code execute in both rendering and serving contexts, create a code chunk with context: setup. For example:\n```{r}\n#| context: setup\n#| include: false\n\n# load libraries\nlibrary(dplyr)\n\n# load data\ndataset <- import_data(\"data.csv\")\ndataset <- sample_n(dataset, 1000)\n```\nThis code will execute at both render time as well as when the server is created for each new user session. Note that we also specify include: false to make sure that code, warnings, and output from the chunk are not included in the rendered document.\n\n\ncontext: data\nThe loading and manipulation of data often dominates the startup time of Shiny applications. Since interactive documents are executed in two phases (the initial render and then the serving of the document to users) we can perform the expensive data manipulations during rendering and then simply load the data when starting up the application.\nYou can define prerendered data by adding the context: data option to an R code chunk. The chunk will be executed during render and any R objects it creates will be saved to an .RData file, which will then be loaded during Shiny server startup. For example, we could take the the setup chunk illustrated above and factor out the data loading into its own chunk:\n```{r}\n#| context: data\n#| include: false\n\ndataset <- import_data(\"data.csv\")\ndataset <- sample_n(dataset, 1000)\n```\nNote that R objects created within a context: data chunk are available to both the UI rendering and server contexts.\n\n\nKnitr cache\nYou can further improve the performance of data rendering by adding the cache: true option to the data chunk. This will cause the code chunk to be re-executed only when required. For example:\n```{r}\n#| context: data\n#| include: false\n#| cache: true\n#| cache.extra: !expr file.info(\"data.csv\")$mtime\n\ndataset <- import_data(\"data.csv\")\ndataset <- sample_n(dataset, 1000)\n```\nIn this example the cache will be invalidated if either the R code in the chunk changes or the modification time of the “data.csv” file changes (this is accomplished using the cache.extra option).\nYou can also invalidate an existing cache by removing the _cache directory alongside with your interactive document.\n\n\ncontext: server-start\nThere is one additional execution context that enables you to share code and data across multiple user sessions. Chunks with context: server-start executee once when the Shiny document is first run and are not re-executed for each new user of the document. Using context: server-start is appropriate for several scenarios including:\n\nEstablishing shared connections to remote servers (e.g. databases, Spark contexts, etc.).\nCreating reactive values intended to be shared across sessions (e.g. with reactivePoll or reactiveFileReader).\n\nFor example:\n```{r}\n#| context: server-start\n\nlibrary(DBI)\ndb <- dbConnect(...)\n```\n\n\n\nMultiple Files\nIf your interactive document uses a .qmd file to define the user-interface and a server.R file for the server, you can put shared code in a file named global.R. Functions and variables defined within global.R will be available both during render as well as during execution of the server.\nIn this scenario your interactive document consists of 3 source files:\n\n\n\n\n\n\n\nFile\nDescription\n\n\n\n\ndoc.qmd\nMarkdown content as well as Shiny inputs and outputs (e.g. sliderInput(), plotOutput(), etc.)\n\n\nserver.R\nMain server function with reactive expressions, assignments to outputs, etc.\n\n\nglobal.R\nCode shared between doc.qmd and server.R."
+  },
+  {
+    "objectID": "shiny/index.html",
+    "href": "shiny/index.html",
+    "title": "Shiny",
+    "section": "",
+    "text": "If you are an R user, you may already be familiar with Shiny, a package that makes it easy to build interactive web apps with R.\nWhen using the Knitr computation engine, Quarto documents can include embedded Shiny components (e.g. a plot with sliders that control its inputs) or even simple Shiny applications that include several components.\nThis section covers integrating Shiny with Quarto and assumes that you already have basic familiarity with Shiny. To learn more about Shiny please visit https://shiny.rstudio.com.\n\n\n\n\n\n\nIn order to run the examples below you will need the very latest version of the rmarkdown package (v2.10), which you can install with:\n install.packages(\"rmarkdown\")"
+  },
+  {
+    "objectID": "shiny/index.html#hello-shiny",
+    "href": "shiny/index.html#hello-shiny",
+    "title": "Shiny",
+    "section": "Hello, Shiny",
+    "text": "Hello, Shiny\nFor example, here’s a document that contains a plot of the “Old Faithful” dataset along with a slider to control the number of bins:\n\nHere’s the source code for this example:\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\n\n```{r}\nsliderInput(\"bins\", \"Number of bins:\", \n            min = 1, max = 50, value = 30)\nplotOutput(\"distPlot\")\n```\n\n```{r}\n#| context: server\noutput$distPlot <- renderPlot({\n  x <- faithful[, 2]  # Old Faithful Geyser data\n  bins <- seq(min(x), max(x), length.out = input$bins + 1)\n  hist(x, breaks = bins, col = 'darkgray', border = 'white')\n})\n```\nThere are two important differences between this document and a normal static document:\n\nThe inclusion server: shiny within the document’s options, which instructs Quarto to run a Shiny Server behind the document:\n---\ntitle: \"Old Faithful\"\nformat: html\nserver: shiny\n---\nThe inclusion of context: server as an option in the second code chunk, which delineates this R code as running within the Shiny Server (this is the code you would typically put in server.R):\n```{r}\n#| context: server\n```\n\nWe’ll cover running and deploying Quarto documents with Shiny components in the article on Running Documents. Before that though, let’s cover a more in-depth example."
+  },
+  {
+    "objectID": "shiny/index.html#custom-layout",
+    "href": "shiny/index.html#custom-layout",
+    "title": "Shiny",
+    "section": "Custom Layout",
+    "text": "Custom Layout\nHere’s an example that includes multiple inputs as well as a more application like page layout with a sidebar:\n\nHere’s the source code for this example:\n---\ntitle: \"Iris K-Means Clustering\"\nformat: \n  html:\n    page-layout: custom\nserver: shiny\n---\n\n```{r}\n#| panel: sidebar\nvars <- setdiff(names(iris), \"Species\")\nselectInput('xcol', 'X Variable', vars)\nselectInput('ycol', 'Y Variable', vars, selected = vars[[2]])\nnumericInput('clusters', 'Cluster count', 3, min = 1, max = 9)\n```\n\n```{r}\n#| panel: fill\nplotOutput('plot1')\n```\n\n```{r}\n#| context: server\nselectedData <- reactive({\n    iris[, c(input$xcol, input$ycol)]\n  })\n\nclusters <- reactive({\n  kmeans(selectedData(), input$clusters)\n})\n\noutput$plot1 <- renderPlot({\n  palette(c(\"#E41A1C\", \"#377EB8\", \"#4DAF4A\", \"#984EA3\",\n    \"#FF7F00\", \"#FFFF33\", \"#A65628\", \"#F781BF\", \"#999999\"))\n\n  par(mar = c(5.1, 4.1, 0, 1))\n  plot(selectedData(),\n       col = clusters()$cluster,\n       pch = 20, cex = 3)\n  points(clusters()$centers, pch = 4, cex = 4, lwd = 4)\n})\n```\nThere are a few things worth noting in this example:\n\nThe YAML front-matter includes the page-layout: custom option (to indicate we want our content to occupy the entire page rather than being centered with padding).\nWe add panel: sidebar and panel: fill to the two code chunks that define the user-interface to specify that we want them laid out in special panel containers.\nWe again use context: server on the last R code chunk to indicate that it contains the Shiny Server code.\n\n\nPage Layout\nSome interactive documents you create will use narrative interspersed with Shiny components and some (like this example) will be full page applications. Some may even by hybrids—for example imagine a sidebar on the left containing inputs that control outputs interspersed with narrative in the main document body.\nSee the article on Component Layout to learn more about the available tools for managing the layout of interactive documents."
+  },
+  {
+    "objectID": "shiny/index.html#examples",
+    "href": "shiny/index.html#examples",
+    "title": "Shiny",
+    "section": "Examples",
+    "text": "Examples\nHere are some deployed examples of Quarto documents that use Shiny:\n\n\n\nExample\nSource\nDescription\n\n\n\n\nOld Faithful\nCode\nDemonstrates incorporating an interactive plot into the main flow of a document.\n\n\nK-Means\nCode\nDemonstrates using a more “application-like” page layout (sidebar and main panel)\n\n\nDiamonds\nCode\nDemonstrates an alternate way to layout inputs (at the bottom of the page in three columns)."
+  },
+  {
+    "objectID": "shiny/index.html#learning-more",
+    "href": "shiny/index.html#learning-more",
+    "title": "Shiny",
+    "section": "Learning More",
+    "text": "Learning More\nTo learn more about Shiny interactive documents see the following articles:\n\nRunning Documents covers how to run interactive documents both within RStudio and at the command line, as well as how to deploy them to end users.\nExecution Contexts goes in depth on when different code blocks (e.g. rendering vs. serving) run as well as how to cache expensive computations for more responsive documents.\nExternal Resources describes how to make sure that Shiny can locate resources (e.g. CSS, JS, images, etc.) that you include in your document.\nComponent Layout enumerates the various techniques you can use to layout interactive components within your documents.\n\nIf you are using both JavaScript and Shiny to create interactive documents, you might also be interested in the article on using Shiny Reactives with OJS."
+  },
+  {
+    "objectID": "shiny/resources.html",
+    "href": "shiny/resources.html",
+    "title": "External Resources",
+    "section": "",
+    "text": "There are two types of external resource file that might be referenced from within a Shiny interactive document:\n\nFiles referenced from R code (e.g. R scripts, datasets, configuration files, etc.); and\nStatic assets referenced from the web document (e.g. CSS style-sheets, images, etc.)\n\nBelow we’ll describe how each of these resource types are handled within interactive documents."
+  },
+  {
+    "objectID": "shiny/resources.html#code-resources",
+    "href": "shiny/resources.html#code-resources",
+    "title": "External Resources",
+    "section": "Code Resources",
+    "text": "Code Resources\nFor files referenced from R code, you can reference anything located within the directory of (or sub-directories of) the main .qmd file. This is no different than with any other .qmd file or even R script.\nSimilarly, files created by executing R code (e.g. figures generated from code chunks) are automatically located in the document _files directory alongside the HTML output file. No special handling is required for these files."
+  },
+  {
+    "objectID": "shiny/resources.html#asset-resources",
+    "href": "shiny/resources.html#asset-resources",
+    "title": "External Resources",
+    "section": "Asset Resources",
+    "text": "Asset Resources\nMany interactive documents will consist of only the generated HTML and figures located in the _files directory. However, in some cases you may want to add static images, CSS files, or other assets to your document.\nIn these cases, you need to be sure to locate the files within one of the following specially named sub-directories to ensure they can be located by the Shiny server:\n\n\n\nDirectory\nDescription\n\n\n\n\nimages/\nImage files (e.g. PNG, JPEG, etc.)\n\n\ncss/\nCSS stylesheets\n\n\njs/\nJavaScript scripts\n\n\nwww/\nAny other files (e.g. downloadable datasets)\n\n\n\nThe reason that all files within the directory of the main .qmd can’t be referenced from within the web document is that many of these files are application source code and data, which may not be something you want to be downloadable by end users. By restricting the files which can be referenced to the above directories you can control which files are downloadable and which are not."
+  },
+  {
+    "objectID": "shiny/running.html",
+    "href": "shiny/running.html",
+    "title": "Running Documents",
+    "section": "",
+    "text": "There are a number of ways to run Shiny interactive documents:\n\nUse Run Document within the RStudio IDE.\nUse the quarto serve command line interface.\nDeploy them to a server for use by a wider audience.\n\nWe’ll cover all of these scenario in depth here. Note that in order to run interactive Shiny documents you will to install the very latest version of the rmarkdown package (v2.10) which you can install as follows:\ninstall.packages(\"rmarkdown\")"
+  },
+  {
+    "objectID": "shiny/running.html#rstudio-ide",
+    "href": "shiny/running.html#rstudio-ide",
+    "title": "Running Documents",
+    "section": "RStudio IDE",
+    "text": "RStudio IDE\nWhile you are developing an interactive document it will likely be most convenient to run within RStudio.\nNote that you need RStudio ?var:rstudio.min_version or a later version in order to run Quarto interactive documents. You can download the latest release (?var:rstudio.current_release) here https://posit.co/download/rstudio-desktop/.\nClick the Run Document button while editing a Shiny interactive document to render and view the document within the IDE:\n\nWhen you make changes, just click Run Document again to see them reflected in the document preview.\nTwo options you may want to consider enabling are Run on Save and Preview in Viewer Pane (by default previews occur in an external window). You can access these options on the editor toolbar:"
+  },
+  {
+    "objectID": "shiny/running.html#command-line",
+    "href": "shiny/running.html#command-line",
+    "title": "Running Documents",
+    "section": "Command Line",
+    "text": "Command Line\nYou can also run Shiny interactive documents from the command line via quarto serve. For example:\n\n\nTerminal\n\nquarto serve document.qmd\n\nThere are a number of options to the serve command to control the port and host of the document server as well as whether a browser is automatically opened for the running document. You can learn more about these options with quarto serve help.\nIf you are within an R session you can also use the quarto R package to run a document:\nlibrary(quarto)\nquarto_serve(\"document.qmd\")"
+  },
+  {
+    "objectID": "shiny/running.html#deployment",
+    "href": "shiny/running.html#deployment",
+    "title": "Running Documents",
+    "section": "Deployment",
+    "text": "Deployment\n\nShinyApps\nYou can publish Shiny interactive documents to the ShinyApps hosted service. To do this you should ensure that you have:\n\nAn account on ShinyApps (use the signup form to create an account).\nThe very latest versions of the rsconnect and quarto R packages. You can install them as follows:\ninstall.packages(\"rsconnect\")\ninstall.packages(\"quarto\")\n\nYou can then deploy your interactive document using the quarto_publish_app() function of the quarto package. You can do this as follows (working from the directory that contains your document):\nlibrary(quarto)\nquarto_publish_app(server = \"shinyapps.io\")\nIf you are using RStudio you can also use the Publish button  available when working with an interactive document:\n\nNote that you should always Run Document locally prior to publishing your document (as this will create the .html file that is served on ShinyApps.\n\n\nPosit Connect\nPosit Connect is a server product from Posit for secure sharing of applications, reports, and plots. You can publish Shiny interactive documents to Posit Connect in much the same way as described above for ShinyApps.\nFirst, make sure you very latest development versions of the rsconnect and quarto R packages. You can install them as follows:\ninstall.packages(\"rsconnect\")\ninstall.packages(\"quarto\")\nNext, deploy your interactive document using the quarto_publish_app() function of the quarto package, providing the domain name or IP address of your Posit Connect installation via the server parameter. You can do this as follows (working from the directory that contains your document):\nlibrary(quarto)\nquarto_publish_app(server = \"rsc.example.com\")\nIf you are using RStudio you can also use the Publish button  as described above in the ShinyApps documentation:\n\nAs with ShinyApps, you should always Run Document locally prior to publishing your document (as this will create the .html file that is served by Posit Connect)."
+  },
+  {
+    "objectID": "k-means/shiny-k-means.html",
+    "href": "k-means/shiny-k-means.html",
+    "title": "Iris K-Means Clustering",
+    "section": "",
+    "text": "X Variable\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\n\n\n\n\n\n\nY Variable\n\nSepal.Length\nSepal.Width\nPetal.Length\nPetal.Width\n\n\n\n\n\n\nCluster count"
   }
 ]
