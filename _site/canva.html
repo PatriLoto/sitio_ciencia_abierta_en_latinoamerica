@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.269">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -47,15 +47,15 @@ ul.task-list li input[type="checkbox"] {
   "type": "overlay",
   "limit": 20,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar"
   }
 }</script>
 
@@ -74,59 +74,63 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title"></span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-nuestro-projecto" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-nuestro-projecto" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Nuestro projecto</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-nuestro-projecto">    
         <li>
-    <a class="dropdown-item" href="./about.html">
+    <a class="dropdown-item" href="./acerca_de.html" rel="" target="">
  <span class="dropdown-text">Sobre el proyecto</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./canva.html">
+    <a class="dropdown-item" href="./canva.html" rel="" target="">
  <span class="dropdown-text">Open canvas</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./licencia.html">
+    <a class="dropdown-item" href="./licencia.html" rel="" target="">
  <span class="dropdown-text">Licencia</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./equipo.html">
+    <a class="nav-link" href="./equipo.html" rel="" target="">
  <span class="menu-text">Equipo</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-cómo-contribuir" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-cómo-contribuir" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Cómo contribuir</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-cómo-contribuir">    
         <li>
-    <a class="dropdown-item" href="./contribuciones.html">
+    <a class="dropdown-item" href="./contribuciones.html" rel="" target="">
  <span class="dropdown-text">Guía para contribuidores</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./conducta.html">
+    <a class="dropdown-item" href="./conducta.html" rel="" target="">
  <span class="dropdown-text">Pautas de convivencia</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://forms.gle/Ho6UufEDyvT3ukh6A">
+    <a class="dropdown-item" href="https://forms.gle/Ho6UufEDyvT3ukh6A" rel="" target="">
  <span class="dropdown-text">Formulario</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+    <a href="https://twitter.com" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-email"></i></a>
+    <a href="https://github.com/PatriLoto/sitio_ciencia_abierta_en_latinoamerica" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -137,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">En esta página</h2>
    
   <ul>
   <li><a href="#acerca-del-producto" id="toc-acerca-del-producto" class="nav-link active" data-scroll-target="#acerca-del-producto">Acerca Del Producto</a></li>
@@ -165,19 +169,30 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>Si te interesa conocer más sobre el proyecto, te sugerimos que leas el siguiente detalle sobre el producto que proponemos y la comunidad que deseamos armar alrededor del proyecto.</p>
 <section id="acerca-del-producto" class="level3">
 <h3 class="anchored" data-anchor-id="acerca-del-producto">Acerca Del Producto</h3>
-<p><em>Problema</em> 1. Escasa disponibilidad de recursos (talleres, contenido, etc.) y espacios sobre cómo iniciarse en ciencia abierta en la región en español. 2. Inexistencia de una plataforma o repositorio que contenga/o centralice información actualizada sobre recursos, eventos y comunidades de ciencia abierta en el idioma español. 3. Dificultad para encontrar comunidades y redes que utilicen prácticas abiertas en Latinoamérica.</p>
-<p><em>Solución Propuesta</em> Repositorio colaborativo que reúna información actualizada y accesible de recursos, eventos, y comunidades de ciencia abierta en español de América Latina.</p>
-<p><em>Métricas principales</em></p>
+<p>Los problemas detectados son:</p>
+<ol type="1">
+<li><p>Escasa disponibilidad de recursos como talleres, cursos, eventos, y espacios sobre cómo iniciarse en ciencia abierta en la región de Latinomérica.</p></li>
+<li><p>La inexistencia de una plataforma o repositorio que contenga y centralice información actualizada sobre materiales de ciencia abierta en español.</p></li>
+<li><p>Dificultad en cuanto a encontrar comunidades y redes que adopten y empleen principios abiertos en nuestra región.</p></li>
+</ol>
+<section id="solución-propuesta" class="level5">
+<h5 class="anchored" data-anchor-id="solución-propuesta"><strong>Solución Propuesta</strong></h5>
+<p>Repositorio colaborativo que reúna información actualizada y accesible de recursos, eventos, y comunidades de ciencia abierta en español de América Latina.</p>
+</section>
+<section id="métricas-principales" class="level5">
+<h5 class="anchored" data-anchor-id="métricas-principales"><strong>Métricas principales</strong></h5>
 <ul>
-<li>Cantidad de eventos, comunidades y recursos disponibles en el repositorio (x mes, x año).<br>
-</li>
-<li>Google analytics - cantidad de visitas que tiene el sitio del proyecto(medida de visibilidad)</li>
-<li>Cantidad de colaboradores y/o contribuciones al proyecto.</li>
-<li>Cantidad de eventos, comunidades y recursos agregados (x mes, x año).</li>
+<li><p>Cantidad de eventos, comunidades y recursos disponibles en el repositorio (x mes, x año).</p></li>
+<li><p>Google analytics - cantidad de visitas que tiene el sitio del proyecto(medida de visibilidad)</p></li>
+<li><p>Cantidad de colaboradores y/o contribuciones al proyecto.</p></li>
+<li><p>Cantidad de eventos, comunidades y recursos agregados (x mes, x año).</p></li>
 </ul>
-<p><em>Recursos Necesarios</em></p>
+</section>
+<section id="recursos-necesarios" class="level5">
+<h5 class="anchored" data-anchor-id="recursos-necesarios"><strong>Recursos Necesarios</strong></h5>
 <ul>
 <li>Plataforma para alojar el repositorio (github).</li>
 <li>Framework (github pages / Netlify / jekyll)</li>
@@ -190,22 +205,29 @@ ul.task-list li input[type="checkbox"] {
 <li>Guía sobre cómo colaborar con el proyecto.</li>
 </ul>
 </section>
+</section>
 <section id="acerca-de-la-comunidad" class="level3">
 <h3 class="anchored" data-anchor-id="acerca-de-la-comunidad">Acerca de la Comunidad</h3>
-<p><em>Propuesta de valor única</em></p>
+<section id="propuesta-de-valor-única" class="level5">
+<h5 class="anchored" data-anchor-id="propuesta-de-valor-única"><strong>Propuesta de valor única</strong></h5>
 <p>Primer repositorio colaborativo sobre ciencia abierta en Latinoamérica, de fácil uso y con contenido completamente en español.</p>
-<p><em>Perfiles de los usuarios</em></p>
+</section>
+<section id="perfiles-de-los-usuarios" class="level5">
+<h5 class="anchored" data-anchor-id="perfiles-de-los-usuarios"><strong>Perfiles de los usuarios</strong></h5>
 <p>Investigadores, estudiantes y comunidades con interés en ciencia abierta en América Latina que utilicen el repositorio con el fin de entrar en contacto con otros actores regionales y locales de prácticas abiertas y/o estar al tanto de eventos relacionados con ciencia abierta.</p>
-<p><em>Canales de comunicación con los usuarios</em></p>
+<p>Canales de comunicación con los usuarios</p>
 <ul>
 <li>Sitio web del proyecto.</li>
 <li>Red social (twitter) que permitirá darle difusión al proyecto.</li>
 <li>Newsletter.</li>
 <li>Google forms para el envío de contribuciones.</li>
 </ul>
-<p><em>Perfiles de los colaboradores</em> Científicos, investigadores y organizaciones que quieran difundir su trabajo aportando material para sumarlo al repositorio.<br>
+</section>
+<section id="perfiles-de-los-colaboradores" class="level5">
+<h5 class="anchored" data-anchor-id="perfiles-de-los-colaboradores"><strong>Perfiles de los colaboradores</strong></h5>
+<p>Científicos, investigadores y organizaciones que quieran difundir su trabajo aportando material para sumarlo al repositorio.<br>
 Científicos, investigadores y técnicos que colaboren con el mantenimiento y/o mejora del repositorio y/o documentación del mismo.</p>
-<p><em>Canales de comunicación con los colaboradores</em></p>
+<p>Canales de comunicación con los colaboradores</p>
 <ul>
 <li>Plataforma donde estará alojado el repositorio/proyecto (github).</li>
 <li>Red social que permite dar difusión al llamado a colaboradores al proyecto.</li>
@@ -214,6 +236,7 @@ Científicos, investigadores y técnicos que colaboren con el mantenimiento y/o 
 </ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -244,9 +267,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -257,12 +294,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiado");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiado");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -311,6 +348,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
