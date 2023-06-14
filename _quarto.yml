@@ -11,7 +11,7 @@ website:
         file: index.qmd
       - text: "Nuestro projecto"
         menu:
-          - about.qmd
+          - acerca_de.qmd
           - canva.qmd
           - licencia.qmd
       - text: "Equipo"
