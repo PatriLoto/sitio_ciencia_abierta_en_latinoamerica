@@ -8,22 +8,20 @@ title: "¿Quiénes somos?"
 
 Soy Dra. en Psicología Cognitiva e investigadora asistente en el Consejo Nacional de Investigaciones Científicas y Técnicas (Argentina) y especialista en estadística para ciencias de la salud. Además, soy docente de numerosos cursos de grado y posgrado de estadística y programación con R en distintas instituciones educativas. Desde marzo del 2022, formo parte del equipo de medición de impacto de [Metadocencia](https://www.metadocencia.org/) y enseñanza. Soy Instructora certificada por [The Carpentries](https://carpentries.org/instructors/) e Instructora de tidyverse por [Rstudio](https://education.rstudio.com/trainers/). Actualmente, soy mentee del programa de mentoreo y entrenamiento Open Seeds de [Open Life Science](https://openlifesci.org/ols-7).
 
-**Contacto:** jesica.formoso\@gmail.com
+[**Contacto**]{.underline}**:** jesica.formoso\@gmail.com
 
 ### Patricia Loto
 
 ![](images/foto_patri_loto.png){fig-alt="foto de perfil de Patricia Loto" fig-align="left" width="253"}
 
-Soy Licenciada en Sistemas de Información y Diplomada en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones en la FAMAF por la Universidad Nacional de Córdoba. Actualmente soy mentee del programa de mentoreo y entrenamiento Open Seeds de [Open Life Science](https://openlifesci.org/ols-7). Desde principios del 2021 formó parte del equipo de accesibilidad  de [Metadocencia](https://www.metadocencia.org/) y en estos momentos me desempeño como coordinadora de dicho equipo.  Además, soy Instructora certificada por [The Carpentries](https://carpentries.org/instructors/) e Instructora de tidyverse por [Rstudio](https://education.rstudio.com/trainers/). Disfruto de aprender en comunidad por eso formo parte de grandes comunidades como R-Ladies, the Carpentries, Latin-R, entre otras.
+Soy Licenciada en Sistemas de Información y Diplomada en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones en la FAMAF por la Universidad Nacional de Córdoba. Actualmente soy mentee del programa de mentoreo y entrenamiento Open Seeds de [Open Life Science](https://openlifesci.org/ols-7). Desde principios del 2021 formó parte del equipo de accesibilidad de [Metadocencia](https://www.metadocencia.org/) y en estos momentos me desempeño como coordinadora de dicho equipo. Además, soy Instructora certificada por [The Carpentries](https://carpentries.org/instructors/) e Instructora de tidyverse por [Rstudio](https://education.rstudio.com/trainers/). Disfruto de aprender en comunidad por eso formo parte de grandes comunidades como R-Ladies, the Carpentries, Latin-R, entre otras.
 
-**Contacto:** patricia.andrea.loto\@gmail.com
+[**Contacto**]{.underline}**:** patricia.andrea.loto\@gmail.com
 
 ### Irene Vazano
 
 ![](images/foto_ire.png){fig-alt="foto de perfil de Patricia Loto" fig-align="left" width="253"}
 
-Soy Licenciada en Bibliotecología y diplomada en desarrollo front end, con amplia experiencia en trabajo informático.
-Mentee de la séptima cohorte del programa de mentoreo y entrenamiento Open Seeds de [Open Life Science](https://openlifesci.org/ols-7). Formo parte  de [MetaDocencia](https://www.metadocencia.org/) desde 2020 y en estos momentos me desempeño como coordinadora interina del área de Infraestructura. Soy instructora certificada por [The Carpentries](https://carpentries.org/instructors/) y especialista en accesibilidad digital por el [Instituto de Accesibilidad](https://institutodeaccesibilidad.com/). Soy desarrolladora Front-end por la [UTN Facultad Regional Buenos Aires](https://www.frba.utn.edu.ar/).
+Soy Licenciada en Bibliotecología y diplomada en desarrollo front end, con amplia experiencia en trabajo informático. Mentee de la séptima cohorte del programa de mentoreo y entrenamiento Open Seeds de [Open Life Science](https://openlifesci.org/ols-7). Formo parte de [MetaDocencia](https://www.metadocencia.org/) desde 2020 y en estos momentos me desempeño como coordinadora interina del área de Infraestructura. Soy instructora certificada por [The Carpentries](https://carpentries.org/instructors/) y especialista en accesibilidad digital por el [Instituto de Accesibilidad](https://institutodeaccesibilidad.com/). Soy desarrolladora Front-end por la [UTN Facultad Regional Buenos Aires](https://www.frba.utn.edu.ar/).
 
-**Contacto:** irene.vazano\@gmail.com
-
+[**Contacto**]{.underline}**:** irene.vazano\@gmail.com
