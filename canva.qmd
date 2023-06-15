@@ -8,11 +8,11 @@ Si te interesa conocer más sobre el proyecto, te sugerimos que leas el siguient
 
 Los problemas detectados son:
 
-1.   Escasa disponibilidad de recursos como talleres, cursos, eventos, y espacios sobre cómo iniciarse en ciencia abierta en la región de Latinomérica.
+1.  La escasa disponibilidad de recursos como talleres, cursos, eventos, y espacios sobre cómo iniciarse en ciencia abierta en la región de Latinomérica.
 
 2.  La inexistencia de una plataforma o repositorio que contenga y centralice información actualizada sobre materiales de ciencia abierta en español.
 
-3.   Dificultad en cuanto a encontrar comunidades y redes que adopten y empleen principios abiertos en nuestra región.
+3.  La dificultad en cuanto a encontrar comunidades y redes que adopten y empleen principios abiertos en nuestra región.
 
 ##### **Solución Propuesta**
 
@@ -27,18 +27,6 @@ Repositorio colaborativo que reúna información actualizada y accesible de recu
 -   Cantidad de colaboradores y/o contribuciones al proyecto.
 
 -   Cantidad de eventos, comunidades y recursos agregados (x mes, x año).
-
-##### **Recursos Necesarios**
-
--   Plataforma para alojar el repositorio (github).
--   Framework (github pages / Netlify / jekyll)
--   Cuenta de Gmail. Colaboradores (recursos humanos).
--   Lenguaje para el desarrollo del repositorio (ej: R, Python o cualquier otro).
--   IDE para el desarrollo del proyecto (ej: Rstudio).
--   Hardware: 3 pcs/notebooks.
--   Internet.
--   Código de conducta
--   Guía sobre cómo colaborar con el proyecto.
 
 ### Acerca de la Comunidad
 
