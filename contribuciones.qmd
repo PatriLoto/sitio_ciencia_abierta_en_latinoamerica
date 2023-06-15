@@ -18,22 +18,22 @@ Algunas recomendaciones para iniciar tu colaboración con el proyecto:
 
 ### ¿Cómo comparto mi contribución?
 
-Una vez que sepas en qué aspecto del proyecto te gustaría generar tu aporte, puedes hacerlo de tres formas distintas:
+Una vez que sepas en qué aspecto del proyecto te gustaría generar tu aporte, puedes hacerlo de las siguientes formas:
 
 -   Abre un Pull Request (puedes aprender cómo hacerlo con esta guía gratuita [¿Cómo contribuir a un proyecto en GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 -   Añade un nuevo [issue](https://github.com/JFormoso/Comunidad-Abierta-LATAM/issues) con tus sugerencias.
 
--   Completa el siguiente formulario para sumar recursos de ciencia abierta que estén en español al repositorio: <https://forms.gle/Ho6UufEDyvT3ukh6A>. Los recursos que puedes aportar son:
+Próximamente compartiremos la posibilidad de sumar recursos de ciencia abierta que estén en español al repositorio mediante un sencillo formulario. Los recursos que podrás aportar son:
 
-    -   Talleres o workshops gratuitos
+-   Talleres o workshops gratuitos
 
-    -   Trabajos acádemicos
+-   Trabajos acádemicos
 
-    -   Comunidades
+-   Comunidades
 
-    -   Organizaciones sin fines de lucro
+-   Organizaciones sin fines de lucro
 
-    -   Oportunidades de fianciación
+-   Oportunidades de fianciación
 
-    -   Material educativo
+-   Material educativo
