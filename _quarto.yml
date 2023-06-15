@@ -20,7 +20,6 @@ website:
         menu:
           - contribuciones.qmd
           - conducta.qmd
-         
     tools:
       #- icon: email
        # href: https://twitter.com
