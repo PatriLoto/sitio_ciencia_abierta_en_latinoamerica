@@ -20,8 +20,8 @@ website:
         menu:
           - contribuciones.qmd
           - conducta.qmd
-          - text: "Formulario" 
-            href: https://forms.gle/Ho6UufEDyvT3ukh6A
+          #- text: "Formulario" 
+           # href: https://forms.gle/Ho6UufEDyvT3ukh6A
     tools:
       - icon: email
         href: https://twitter.com
