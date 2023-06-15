@@ -20,11 +20,10 @@ website:
         menu:
           - contribuciones.qmd
           - conducta.qmd
-          #- text: "Formulario" 
-           # href: https://forms.gle/Ho6UufEDyvT3ukh6A
+         
     tools:
-      - icon: email
-        href: https://twitter.com
+      #- icon: email
+       # href: https://twitter.com
       - icon: github
         href: https://github.com/PatriLoto/sitio_ciencia_abierta_en_latinoamerica
 
