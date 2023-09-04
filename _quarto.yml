@@ -9,7 +9,7 @@ website:
     left:
       - text: "Inicio"
         file: index.qmd
-      - text: "Nuestro projecto"
+      - text: "Nuestro proyecto"
         menu:
           - acerca_de.qmd
           - canva.qmd
