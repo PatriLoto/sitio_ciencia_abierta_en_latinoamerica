@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: " "
+  title: ""
   navbar:
     background: success
     search: true
@@ -21,8 +21,8 @@ website:
           - contribuciones.qmd
           - conducta.qmd
     tools:
-      #- icon: email
-       # href: https://twitter.com
+      - icon: email
+        href: comunidadabiertalatam@gmail.com
       - icon: github
         href: https://github.com/PatriLoto/sitio_ciencia_abierta_en_latinoamerica
 
