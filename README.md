@@ -1,2 +1,7 @@
-# sitio_ciencia_abierta_en_latinoamerica
-Sitio del proyecto **Mapeo de comunidades, organizaciones, eventos y material de ciencia abierta en Latinoamérica**, el cual es un work in progress que arrancamos en Marzo de 2023 de la mano de OLS y que actualmente forma parte de un proyecto de [Metadocencia](https://www.metadocencia.org/). Si querés conocer del estado actual del proyecto puedes ingresar en [Mapeo Actual](https://www.metadocencia.org/proyecto/mapeo-comunidades/).
+# Ciencia abierta en Latinoamérica (version en español)
+Sitio del proyecto **Mapeo de comunidades, organizaciones, eventos y material de ciencia abierta en Latinoamérica**, el cual es un work in progress que arrancamos en Marzo de 2023 de la mano de OLS. El objetivo principal es disponibilizar información sobre recursos, eventos y comunidades de ciencia abierta con base América Latina a través de un repositorio público que centralice esta información. Si querés conocer sobre el proyecto ingresa al sitio.
+
+
+
+# Open Science in Latin America (English version)
+Site of the project **Mapping open science communities, organisations, events and material in Latin America**, which is a work in progress that we started in March 2023 with the help of OLS Open Seeds. The main objective is to make available information about open science resources, events and communities based in Latin America through a public repository that centralises this information. If you want to know more about the project, visit the site.
